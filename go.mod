@@ -1,10 +1,9 @@
-module gostart-crm
+module github.com/dv1x3r/teh-lite
 
-go 1.24
+go 1.27.0
 
 tool (
 	github.com/a-h/templ/cmd/templ
-	github.com/air-verse/air
 	github.com/pressly/goose/v3/cmd/goose
 )
 
